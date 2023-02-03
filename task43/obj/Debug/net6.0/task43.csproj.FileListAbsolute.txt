@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\bin\Debug\net6.0\task43.exe
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\bin\Debug\net6.0\task43.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\bin\Debug\net6.0\task43.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\bin\Debug\net6.0\task43.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\refint\task43.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework07_02\Homework07_02\task43\obj\Debug\net6.0\ref\task43.dll
