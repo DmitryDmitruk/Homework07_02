@@ -13,10 +13,17 @@ int b2=int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите число k2");
 int k2=int.Parse(Console.ReadLine()!);
 
-double difb=b1-b2;
+double difb=b1-b2;                     //не понятно почему нет отрицательных значений
 double difk=k1-k2;
 double x =difb/difk;
 double y= k2*x+b2;
    
-Console.WriteLine($"(x ;y)->({x};{y})");    
+if (difk!=0)
+{
+    Console.WriteLine($"Прямые пересекаются в точке с координатами({x};{y})"); 
+} 
+  else
+  {
+     Console.WriteLine($"Прямые не пересекаются");
+  } 
      
